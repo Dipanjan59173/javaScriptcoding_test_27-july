@@ -6,6 +6,17 @@ input:invalid{
 input:valid{
     border: 2px solid green;
 }
-p{
+#name_e{
+    color: red;
+}
+#err_email{
+    color: red;
+}
+#e-pass{
+    color: red;
+
+
+}
+#e_c{
     color: red;
 }
